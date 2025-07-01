@@ -1,14 +1,15 @@
 modLoader="javafml" #mandatory
 loaderVersion="[35,)" #mandatory (30 is current forge version)
-issueTrackerURL="https://github.com/OneLemonyBoi/XLFoodMod/issues" #optional
+# issueTrackerURL="https://github.com/OneLemonyBoi/XLFoodMod/issues" #optional
 license = "GNU"
 [[mods]] #mandatory
 modId="xlfoodmod" #mandatory
-version="${file.jarVersion}" #mandatory
-displayName="XL Food Mod" #mandatory
-displayURL="https://www.curseforge.com/minecraft/mc-mods/xl-food-mod-plus" #optional
-logoFile="" #optional
-authors="OneLemonyBoi" #optional
+version="1.20.1-1.0.0" #mandatory
+displayName="XL Food Mod Reborn" #mandatory
+# displayURL="https://www.curseforge.com/minecraft/mc-mods/xl-food-mod-plus" #optional
+logoFile="logo.png" #optional
+credits = "OneLemonyBoi, mariot7, SoBiohazardous, Igrek"
+authors="Rinko1231" #optional
 description='''
 A mod that adds more foods and crops to the game.
 '''
@@ -23,6 +24,6 @@ A mod that adds more foods and crops to the game.
 [[dependencies.xlfoodmod]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.1,1.19)"
+    versionRange="[1.20.1,1.21)"
     ordering="NONE"
     side="BOTH"
