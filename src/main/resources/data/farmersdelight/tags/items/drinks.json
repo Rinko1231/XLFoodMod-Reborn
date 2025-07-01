@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "xlfoodmod:lemon_juice",
+    "xlfoodmod:strawberry_juice",
+    "xlfoodmod:pineapple_juice",
+	
+    "xlfoodmod:speedy_energy_drink",
+	"xlfoodmod:healthy_energy_drink",
+	"xlfoodmod:stealthy_energy_drink",
+	"xlfoodmod:strong_energy_drink",
+	"xlfoodmod:deadly_energy_drink",
+	"xlfoodmod:super_energy_drink"
+  ]
+}
