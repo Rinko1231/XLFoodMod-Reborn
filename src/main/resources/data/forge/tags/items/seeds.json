@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "xlfoodmod:lemon_seeds",
+    "xlfoodmod:pineapple_seeds",
+	"xlfoodmod:pepper_seeds",
+	"xlfoodmod:corn_seeds",
+	"xlfoodmod:cucumber_seeds",
+	"xlfoodmod:lettuce_seeds",
+	
+	"xlfoodmod:tomato_seeds",
+	"xlfoodmod:strawberry_seeds"
+	
+  ]
+}
