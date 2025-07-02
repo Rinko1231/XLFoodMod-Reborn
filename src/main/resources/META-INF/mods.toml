@@ -4,7 +4,7 @@ loaderVersion="[35,)" #mandatory (30 is current forge version)
 license = "GNU"
 [[mods]] #mandatory
 modId="xlfoodmod" #mandatory
-version="1.20.1-1.0.0" #mandatory
+version="1.20.1-1.0.1" #mandatory
 displayName="XL Food Mod Reborn" #mandatory
 # displayURL="https://www.curseforge.com/minecraft/mc-mods/xl-food-mod-plus" #optional
 logoFile="logo.png" #optional
